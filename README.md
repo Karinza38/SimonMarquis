@@ -1,4 +1,4 @@
-[![GitHub User's stars](https://img.shields.io/github/stars/SimonMarquis)]() [![GitHub followers](https://img.shields.io/github/followers/SimonMarquis)](https://github.com/SimonMarquis?tab=followers)
+[GitHub User's stars](https://img.shields.io/github/stars/SimonMarquis)]() [![GitHub followers](https://img.shields.io/github/followers/SimonMarquis)](https://github.com/SimonMarquis?tab=followers)
 
 <!--region-->
 <table>
